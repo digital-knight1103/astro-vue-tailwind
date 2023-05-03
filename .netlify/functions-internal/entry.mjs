@@ -2,7 +2,7 @@ import * as adapter from '@astrojs/netlify/netlify-functions.js';
 import { defineComponent, h, createSSRApp } from 'vue';
 import { renderToString } from 'vue/server-renderer';
 import { s as server_default, g as deserializeManifest } from './chunks/astro.a965a446.mjs';
-import { _ as _page0 } from './chunks/pages/all.0dd55a01.mjs';
+import { _ as _page0 } from './chunks/pages/all.c9bb46f9.mjs';
 import 'mime';
 import 'cookie';
 import 'html-escaper';
