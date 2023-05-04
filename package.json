@@ -2,6 +2,8 @@
   "name": "astro-vue-tailwind",
   "type": "module",
   "version": "0.0.1",
+  "authot": "Digital_Knight Paweł Bokszczanin",
+  "homepage": "http://www.astro-vue-tailwind.netlify.app",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -16,5 +18,10 @@
     "astro": "^2.2.1",
     "tailwindcss": "^3.0.24",
     "vue": "^3.2.30"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-plugin-astro": "^0.8.0",
+    "prettier-plugin-tailwindcss": "^0.2.8"
   }
 }
