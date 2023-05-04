@@ -50,7 +50,16 @@
           </div>
         </div>
         <div class="rounded-4xl overflow-hidden">
-          <iframe class="w-full" id="gmap_canvas" style="height: 601px;" src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&amp;t=&amp;z=19&amp;ie=UTF8&amp;iwloc=&amp;output=embed" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+          <iframe 
+            class="w-full" 
+            id="gmap_canvas" 
+            style="height: 601px;" 
+            src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&amp;t=&amp;z=19&amp;ie=UTF8&amp;iwloc=&amp;output=embed" 
+            scrolling="no" 
+            marginheight="0" 
+            marginwidth="0" 
+            frameborder="0">
+          </iframe>
         </div>
       </div>
     </div>
