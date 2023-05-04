@@ -4,7 +4,7 @@
       <div class="container px-4 mx-auto">
         <div class="flex items-center relative">
           <a class="inline-block text-lg font-bold" href="#">
-            <img class="h-10" src="../assets/logos/logo-saturn-dark.svg" alt="" width="auto">
+            <img class="h-10" src="../assets/logos/logo-saturn-dark.svg" alt="logo" width="auto">
           </a>
           <div class="xl:hidden ml-auto">
             <button class="navbar-burger flex w-12 h-12 items-center justify-center bg-gray-100 hover:bg-gray-200 rounded-md transition duration-200">
@@ -114,7 +114,7 @@
 import { defineComponent, onMounted, ref } from 'vue'
 
 export default defineComponent({
-  name: 'TheHeader',
+  name: 'TheNavigation',
   setup() {
     onMounted(() => {
     // Burger menus
