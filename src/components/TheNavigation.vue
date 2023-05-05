@@ -4,7 +4,7 @@
       <div class="container px-4 mx-auto">
         <div class="flex items-center relative">
           <a class="inline-block text-lg font-bold" href="#">
-            <img class="h-10" src="../assets/logos/logo-saturn-dark.svg" alt="logo" width="auto">
+            <img class="h-10" src="/assets/logos/logo-saturn-dark.svg" alt="logo" width="auto">
           </a>
           <div class="xl:hidden ml-auto">
             <button class="navbar-burger flex w-12 h-12 items-center justify-center bg-gray-100 hover:bg-gray-200 rounded-md transition duration-200">
@@ -24,22 +24,22 @@
                   <div class="pb-3 mb-3 border-b border-gray-100"><a class="block py-3 px-4 text-sm text-gray-900 hover:bg-orange-50 rounded-lg" href="#">Featured</a><a class="block py-3 px-4 text-sm text-gray-900 hover:bg-orange-50 rounded-lg" href="#">Solutions</a></div>
                   <div class="pb-3 mb-3 border-b border-gray-100">
                     <a class="flex mb-2 items-center py-3 px-4 text-sm text-gray-900 hover:bg-orange-50 rounded-lg" href="#">
-                      <img src="../assets/images/headers/icon-download.svg" alt="">
+                      <img src="/assets/images/headers/icon-download.svg" alt="">
                       <span class="ml-3">Download</span>
                     </a>
                     <a class="flex mb-2 items-center py-3 px-4 text-sm text-gray-900 hover:bg-orange-50 rounded-lg" href="#">
-                      <img src="../assets/images/headers/icon-slack.svg" alt="">
+                      <img src="/assets/images/headers/icon-slack.svg" alt="">
                       <span class="ml-3">Community</span>
                     </a>
                     <a class="flex mb-2 items-center py-3 px-4 text-sm text-gray-900 hover:bg-orange-50 rounded-lg" href="#">
-                      <img src="../assets/images/headers/icon-help.svg" alt="">
+                      <img src="/assets/images/headers/icon-help.svg" alt="">
                       <span class="ml-3">Help</span>
                     </a>
                   </div>
                   <div class="flex items-center pb-3 mb-3 border-b border-gray-100"><a class="inline-block px-4 py-3 mr-6 text-sm font-semibold text-orange-900 hover:text-gray-900" href="#">Sign In</a><a class="inline-block py-3 px-4 text-sm font-semibold text-orange-900 hover:text-white border border-gray-200 hover:border-orange-600 hover:bg-orange-900 rounded-md transition duration-200" href="#">Create an account</a></div>
                   <div class="flex items-center">
                     <div class="flex w-10 h-10 items-center justify-center bg-orange-50 rounded-full">
-                      <img src="../assets/images/headers/icon-email-me.svg" alt="">
+                      <img src="/assets/images/headers/icon-email-me.svg" alt="">
                     </div>
                     <div class="ml-3">
                       <span class="block text-xs text-gray-500">Drop us a line</span>
@@ -70,7 +70,7 @@
       <nav class="relative flex flex-col py-6 px-10 w-full h-full bg-white border-r overflow-y-auto">
         <div class="flex items-center mb-16">
           <a class="mr-auto text-2xl font-medium leading-none" href="#">
-            <img class="h-10" src="../assets/logos/logo-saturn-dark.svg" alt="" width="auto">
+            <img class="h-10" src="/assets/logos/logo-saturn-dark.svg" alt="" width="auto">
           </a>
           <button class="navbar-close">
             <svg class="h-6 w-6 text-gray-500 cursor-pointer hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">

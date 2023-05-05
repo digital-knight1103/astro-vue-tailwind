@@ -2,7 +2,7 @@
   <section class="py-20 md:py-24">
     <div class="container px-4 mx-auto">
       <div class="relative max-w-7xl mx-auto px-6 md:px-12 py-16 sm:py-28 rounded-4xl bg-orange-800 overflow-hidden">
-        <img class="absolute top-0 left-1/2 transform -translate-x-1/2 h-full object-cover" src="../assets/images/cta/circle-bg.svg" alt="">
+        <img class="absolute top-0 left-1/2 transform -translate-x-1/2 h-full object-cover" src="/assets/images/cta/circle-bg.svg" alt="">
         <div class="relative text-center">
           <span class="block text-2xl sm:text-3xl md:text-4xl font-semibold text-orange-400 mb-6">Ready to collaborate?</span>
           <h2 class="font-heading text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-8">
@@ -37,7 +37,3 @@ export default defineComponent({
   }
 })
 </script>
-
-<style scoped>
-
-</style>

@@ -1,7 +1,7 @@
 <template>
   <section class="relative py-20 md:py-32 overflow-hidden">
-    <img class="absolute top-0 left-0" src="../assets/images/contact/light-left-blue.png" alt="">
-    <img class="absolute bottom-0 right-0 -mb-20" src="../assets/images/contact/light-orange-right.png" alt="">
+    <img class="absolute top-0 left-0" src="/assets/images/contact/light-left-blue.png" alt="">
+    <img class="absolute bottom-0 right-0 -mb-20" src="/assets/images/contact/light-orange-right.png" alt="">
     <div class="relative container px-4 mx-auto">
       <div class="max-w-7xl mx-auto">
         <div class="max-w-2xl text-center mx-auto mb-20">
@@ -17,7 +17,7 @@
             <div class="w-full lg:w-1/3 px-4 mb-12 lg:mb-0">
               <div class="flex items-center lg:justify-center">
                 <div class="flex flex-shrink-0 mr-5 sm:mr-8 items-center justify-center p-1 w-16 sm:w-20 h-16 sm:h-20 rounded-full bg-blue-200">
-                  <img src="../assets/images/contact/icon-phone.svg" alt="">
+                  <img src="/assets/images/contact/icon-phone.svg" alt="">
                 </div>
                 <div>
                   <span class="text-lg text-gray-500">Phone</span>
@@ -28,7 +28,7 @@
             <div class="w-full lg:w-1/3 px-4 mb-12 lg:mb-0">
               <div class="flex items-center lg:justify-center">
                 <div class="flex flex-shrink-0 mr-5 sm:mr-8 items-center justify-center p-1 w-16 sm:w-20 h-16 sm:h-20 rounded-full bg-yellow-200">
-                  <img src="../assets/images/contact/icon-email.svg" alt="">
+                  <img src="/assets/images/contact/icon-email.svg" alt="">
                 </div>
                 <div>
                   <span class="text-lg text-gray-500">Email</span>
@@ -39,7 +39,7 @@
             <div class="w-full lg:w-1/3 px-4">
               <div class="flex items-center lg:justify-center">
                 <div class="flex flex-shrink-0 mr-5 sm:mr-8 items-center justify-center p-1 w-16 sm:w-20 h-16 sm:h-20 rounded-full bg-green-200">
-                  <img class="h-8" src="../assets/images/contact/icon-location.svg" alt="">
+                  <img class="h-8" src="/assets/images/contact/icon-location.svg" alt="">
                 </div>
                 <div>
                   <span class="text-lg text-gray-500">Office</span>

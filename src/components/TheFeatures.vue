@@ -1,6 +1,6 @@
 <template>
   <section class="relative pt-20 pb-20 lg:pb-32 overflow-hidden">
-    <img class="absolute top-0 right-0" src="../assets/images/features/star-element-right.png" alt="">
+    <img class="absolute top-0 right-0" src="/assets/images/features/star-element-right.png" alt="">
     <div class="relative container px-4 mx-auto">
       <div class="max-w-md lg:max-w-7xl mx-auto">
         <div class="flex flex-wrap -mx-4 mb-18 items-center">
@@ -22,7 +22,7 @@
         <div class="flex flex-wrap -mx-4">
           <div class="w-full lg:w-1/3 px-4 mb-12 lg:mb-0">
             <div>
-              <img class="block mb-6 w-full h-100" src="../assets/images/features/image-article1.png" alt="">
+              <img class="block mb-6 w-full h-100" src="/assets/images/features/image-article1.png" alt="">
               <div>
                 <h3 class="text-3xl font-semibold mb-5">The heart of what makes we valuable</h3>
                 <a class="inline-flex items-center justify-center w-full lg:w-auto px-5 py-3 text-sm font-semibold text-orange-900 rounded-full border border-gray-100 hover:border-orange-900 transition duration-200" href="#">
@@ -36,7 +36,7 @@
           </div>
           <div class="w-full lg:w-1/3 px-4 mb-12 lg:mb-0">
             <div>
-              <img class="block mb-6 w-full h-100" src="../assets/images/features/image-article2.png" alt="">
+              <img class="block mb-6 w-full h-100" src="/assets/images/features/image-article2.png" alt="">
               <div>
                 <h3 class="text-3xl font-semibold mb-5">The heart of what makes we valuable</h3>
                 <a class="inline-flex items-center justify-center w-full lg:w-auto px-5 py-3 text-sm font-semibold text-orange-900 rounded-full border border-gray-100 hover:border-orange-900 transition duration-200" href="#">
@@ -50,7 +50,7 @@
           </div>
           <div class="w-full lg:w-1/3 px-4">
             <div>
-              <img class="block mb-6 w-full h-100" src="../assets/images/features/image-article3.png" alt="">
+              <img class="block mb-6 w-full h-100" src="/assets/images/features/image-article3.png" alt="">
               <div>
                 <h3 class="text-3xl font-semibold mb-5">The heart of what makes we valuable</h3>
                 <a class="inline-flex items-center justify-center w-full lg:w-auto px-5 py-3 text-sm font-semibold text-orange-900 rounded-full border border-gray-100 hover:border-orange-900 transition duration-200" href="#">

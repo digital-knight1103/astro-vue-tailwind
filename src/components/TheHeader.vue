@@ -2,7 +2,7 @@
   <section class="relative pb-24 lg:pb-40 overflow-hidden mt-20">
     <img 
       class="absolute bottom-0 right-0 w-52 md:w-auto" 
-      src="../assets/images/headers/star-header-right-bottom.png" 
+      src="/assets/images/headers/star-header-right-bottom.png" 
       alt="star-header-right-bottom"
     >
     <div class="relative container px-4 mx-auto z-20">
@@ -10,7 +10,7 @@
         <div class="flex flex-wrap -mx-4 items-center">
           <div class="w-full lg:w-2/5 px-4 mb-16 lg:mb-0">
             <div class="relative max-w-lg lg:max-w-md mx-auto lg:mx-0">
-              <img class="block h-112 md:h-150 w-full" src="../assets/images/headers/image-header-2.png" alt="">
+              <img class="block h-112 md:h-150 w-full" src="/assets/images/headers/image-header-2.png" alt="">
               <div class="absolute bottom-0 right-0 p-7">
                 <div class="p-6 bg-white rounded-2xl">
                   <div>
@@ -57,10 +57,10 @@
                   </div>
                 </a>
                 <div class="flex mt-8 sm:mt-0 sm:ml-8 items-center">
-                  <img class="w-10 h-10" src="../assets/images/headers/avatar4.png" alt="">
-                  <img class="w-10 -ml-2 h-10" src="../assets/images/headers/avatar3.png" alt="">
-                  <img class="w-10 -ml-2 h-10" src="../assets/images/headers/avatar2.png" alt="">
-                  <img class="w-10 -ml-2 h-10" src="../assets/images/headers/avatar1.png" alt="">
+                  <img class="w-10 h-10" src="/assets/images/headers/avatar4.png" alt="">
+                  <img class="w-10 -ml-2 h-10" src="/assets/images/headers/avatar3.png" alt="">
+                  <img class="w-10 -ml-2 h-10" src="/assets/images/headers/avatar2.png" alt="">
+                  <img class="w-10 -ml-2 h-10" src="/assets/images/headers/avatar1.png" alt="">
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, onMounted, ref } from 'vue'
+import { defineComponent } from 'vue'
 
 export default defineComponent({
   name: 'TheHeader',
