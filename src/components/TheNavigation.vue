@@ -3,11 +3,11 @@
     <nav class="relative py-6 bg-white z-50">
       <div class="container px-4 mx-auto">
         <div class="flex items-center relative">
-          <a class="inline-block text-lg font-bold" href="#">
+          <a class="inline-block text-lg font-bold" href="#" aria-label="to Top">
             <img class="h-10" src="/assets/logos/logo-saturn-dark.svg" alt="logo" width="auto">
           </a>
           <div class="xl:hidden ml-auto">
-            <button class="navbar-burger flex w-12 h-12 items-center justify-center bg-gray-100 hover:bg-gray-200 rounded-md transition duration-200">
+            <button aria-label="Name" class="navbar-burger flex w-12 h-12 items-center justify-center bg-gray-100 hover:bg-gray-200 rounded-md transition duration-200">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M3 12H21" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                 <path d="M3 6H21" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>

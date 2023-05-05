@@ -51,6 +51,7 @@
         </div>
         <div class="rounded-4xl overflow-hidden">
           <iframe 
+            title="my place"
             class="w-full" 
             id="gmap_canvas" 
             style="height: 601px;" 
